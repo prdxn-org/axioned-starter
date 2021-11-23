@@ -18,9 +18,12 @@ A scaffold for developers to get started with React projects at Axioned.
 - [ ] Setup e2e test folder (to use [Cypress](https://www.cypress.io/))
 - [ ] Configure [Close Stale Issues](https://github.com/marketplace/actions/close-stale-issues) GitHub Action
 - [ ] Configure [Greetings](https://github.com/actions/starter-workflows/blob/main/automation/greetings.yml) Github Action for general guidance
-- [ ] Make a fork for React projects
-- [ ] Make a fork for Wordpress projects
-- [ ] Make a fork for Node.js projects
+- [ ] Make a starter template for React projects
+  - [ ] Gatsby
+  - [ ] CRA
+  - [ ] Next.js
+- [ ] Make a starter template for Wordpress projects
+- [ ] Make a starter template for Node.js projects
 
 Additional tools to be configured/used
 - [SonarLint](https://www.sonarlint.org/) - local/IDE
