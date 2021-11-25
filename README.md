@@ -1,7 +1,7 @@
 
 # Axioned Starter Repo
 
-A scaffold for developers to get started with React projects at Axioned.
+A scaffold for developers to get started with projects at Axioned. This will be expanded to create starter repos for React, Wordpress and Node projects as well.
 
 
 ## Features and to-do
