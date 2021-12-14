@@ -1,0 +1,21 @@
+{
+  "name": "axioned-starter",
+  "version": "1.0.0",
+  "description": "A scaffold for developers to get started with projects at Axioned. This will be expanded to create starter repos for React, Wordpress and Node projects as well.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prdxn-org/axioned-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prdxn-org/axioned-starter/issues"
+  },
+  "homepage": "https://github.com/prdxn-org/axioned-starter#readme"
+}
