@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/prdxn-org/axioned-starter#readme",
   "lint-staged": {
-    "**/*.{js,jsx,ts,tsx,html,css,json}": ["yarn prettier --write"]
+    "**/*.{js,jsx,ts,tsx,html,css,json}": [
+      "yarn prettier --write"
+    ]
   }
 }
