@@ -29,5 +29,9 @@
     "**/*.{js,jsx,ts,tsx,html,css,json}": [
       "yarn prettier --write"
     ]
+  },
+  "engines": {
+    "npm": ">=7.24.2",
+    "node": ">=16.10.0"
   }
 }
