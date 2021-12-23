@@ -6,4 +6,4 @@ npx --no-install commitlint --edit ""
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-yarn lint-staged
+npm run pre-commit

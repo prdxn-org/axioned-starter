@@ -13,7 +13,8 @@
   },
   "scripts": {
     "test": "echo \"No test specified\"",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "pre-commit": "lint-staged"
   },
   "repository": {
     "type": "git",
@@ -27,11 +28,11 @@
   "homepage": "https://github.com/prdxn-org/axioned-starter#readme",
   "lint-staged": {
     "**/*.{js,jsx,ts,tsx,html,css,json}": [
-      "prettier --write"
+      " prettier --write"
     ]
   },
   "engines": {
     "npm": ">=7.24.2",
-    "node": ">=14.16.0"
+    "node": ">=16.10.0"
   }
 }
