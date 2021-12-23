@@ -27,11 +27,11 @@
   "homepage": "https://github.com/prdxn-org/axioned-starter#readme",
   "lint-staged": {
     "**/*.{js,jsx,ts,tsx,html,css,json}": [
-      "yarn prettier --write"
+      "prettier --write"
     ]
   },
   "engines": {
     "npm": ">=7.24.2",
-    "node": ">=16.10.0"
+    "node": ">=14.16.0"
   }
 }
