@@ -21,7 +21,7 @@
     "test": "echo \"No test specified\"",
     "prepare": "husky install",
     "pre-commit": "lint-staged",
-    "post-merge": "lint-staged"
+    "post-merge": "./.husky/post-merge"
   },
   "repository": {
     "type": "git",
