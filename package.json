@@ -1,6 +1,6 @@
 {
   "name": "axioned-starter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A scaffold for developers to get started with projects at Axioned. This will be expanded to create starter repos for React, Wordpress and Node projects as well.",
   "main": "index.js",
   "devDependencies": {
