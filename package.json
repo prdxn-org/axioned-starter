@@ -14,12 +14,14 @@
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.27.1",
-    "eslint-plugin-react-hooks": "^4.3.0"
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "jest": "^27.4.5"
   },
   "scripts": {
     "test": "echo \"No test specified\"",
     "prepare": "husky install",
-    "pre-commit": "lint-staged"
+    "pre-commit": "lint-staged",
+    "post-merge": "lint-staged"
   },
   "repository": {
     "type": "git",

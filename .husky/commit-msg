@@ -7,3 +7,9 @@ npx --no-install commitlint --edit ""
 . "$(dirname "$0")/_/husky.sh"
 
 npm run pre-commit
+
+
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+npm run post-merge
