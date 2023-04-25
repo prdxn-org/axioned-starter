@@ -5,7 +5,7 @@
   "main": "index.js",
   "devDependencies": {
     "@babel/preset-env": "^7.16.7",
-    "@commitlint/cli": "^15.0.0",
+    "@commitlint/cli": "^17.0.0",
     "@commitlint/config-conventional": "^15.0.0",
     "babel-jest": "^27.4.6",
     "babel-polyfill": "^6.26.0",
@@ -17,7 +17,7 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "husky": "^7.0.0",
     "jest": "^27.4.5",
-    "lint-staged": "^12.1.2",
+    "lint-staged": "^13.0.0",
     "prettier": "^2.5.1"
   },
   "scripts": {
